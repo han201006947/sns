@@ -1,0 +1,14 @@
+server:
+  port: 9009
+spring:
+  application:
+    name: tensquare-sms
+  rabbitmq:
+    host: 127.0.0.1
+aliyun:
+  sms:
+    accessKeyId: LTAIybn5WqK2QIN2
+    accessKeySecret: taQxVvYB7ZlU82MdLXzXAFerNrSMSK
+    template_code: SMS_166371263
+    sign_name: 雄行天下王
+
